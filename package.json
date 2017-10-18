@@ -1,0 +1,16 @@
+{
+  "name": "backend-support",
+  "version": "1.0.0",
+  "description": "asas",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2",
+    "express-session": "^1.15.6",
+    "nodemon": "^1.12.1"
+  }
+}

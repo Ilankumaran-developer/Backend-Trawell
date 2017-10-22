@@ -1,0 +1,8 @@
+{
+  "protocol":"mongodb",
+  "user":"Ilankumaran-developer",
+  "password":"ilan86828",
+  "address":"@ds121955.mlab.com",
+  "port":"21955",
+  "database":"tripwell"
+}

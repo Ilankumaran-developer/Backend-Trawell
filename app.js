@@ -20,6 +20,7 @@ mongo_connect.connect((datab)=>{
 
 
 app.use('/signup',auth.signup);
+app.use('/sayhello',auth.hello);
 app.listen(process.env.PORT || 3000,function(){
   console.log('server started');
 })
